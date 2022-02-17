@@ -17,7 +17,7 @@ click on the text box immediately to the right of the choose button.
 
 <H1>Dataset test.arff</H1>
 
-@relation test
+@relation test<BR>
 @attribute admissionyear {2005,2006,2007,2008,2009,2010}
 @attribute course {cse,mech,it,ece}
 @data
