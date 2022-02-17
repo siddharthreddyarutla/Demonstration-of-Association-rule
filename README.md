@@ -1,7 +1,8 @@
 # Demonstration-of-Association-rule
 This experiment illustrates some of the basic elements of asscociation rule mining using WEKA. The sample dataset used for this example is test.arff
 
-Aim: This experiment illustrates some of the basic elements of asscociation rule mining
+<H1>Aim: </H1>
+This experiment illustrates some of the basic elements of asscociation rule mining
 using WEKA. The sample dataset used for this example is test.arff
 
 Step1: Open the data file in Weka Explorer. It is presumed that the required data fields have
