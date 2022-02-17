@@ -35,3 +35,8 @@ click on the text box immediately to the right of the choose button.
 2009, it<BR>
 2009, ece<BR>
 %<BR>
+
+  <H1>OUTPUT:</H1>
+  
+  
+  ![image](https://user-images.githubusercontent.com/70971734/154476094-d60442bf-b48d-4954-942f-9512900e87ed.png)
