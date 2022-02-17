@@ -41,6 +41,7 @@ click on the text box immediately to the right of the choose button.
   
   ![image](https://user-images.githubusercontent.com/70971734/154476094-d60442bf-b48d-4954-942f-9512900e87ed.png)
   
+  <HR>
   
   ![image](https://user-images.githubusercontent.com/70971734/154476213-edee736d-ded5-40ea-b7dd-6f215a3f1a50.png)
 
